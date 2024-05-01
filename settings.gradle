@@ -1,0 +1,5 @@
+rootProject.name = 'SA_Microkernel_NguyenLeMyChau_20046631'
+include 'core'
+include 'English'
+include 'Japanese'
+
