@@ -13,6 +13,7 @@ dependencies {
     testImplementation platform('org.junit:junit-bom:5.9.1')
     testImplementation 'org.junit.jupiter:junit-jupiter'
     implementation project(':core') // Phụ thuộc vào module "core"
+    implementation 'com.googlecode.json-simple:json-simple:1.1.1'
 }
 
 jar {

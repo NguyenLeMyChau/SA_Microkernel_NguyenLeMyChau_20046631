@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "target": "konichiwa",
+    "definition": "<I><Q>Xin chào</Q></I>"
+  },
+  {
+    "id": 2,
+    "target": "suminasai",
+    "definition": "<I><Q>sống</Q></I>"
+  },
+
+  {
+    "id": 3,
+    "target": "gomen",
+    "definition": "<I><Q>Xin lỗi</Q></I>"
+  }
+]
